@@ -10,7 +10,8 @@ This project involves the design of a helicopter toy, including the body, tail, 
 
 This is the complete assembly of the helicopter toy. It includes all the individual components brought together.
 
-
+helicpoter.jpeg
+![Helicopter](helicopter.jpeg)
 
 ### 2. Helicopter Body (Caroseria Elicopterului)
 ![Helicopter Body](body_of_the_helicopter.jpeg)
